@@ -24,3 +24,5 @@ for i in range(len(ascii)):
     word.append(character)
 
 print(''.join(word)) # finish
+
+
